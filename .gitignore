@@ -1,0 +1,39 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# --- Secrets / environment ---
+.env
+.env.*
+!.env.example
+*.key
+
+# --- Node / React dashboard (Phase 6) ---
+node_modules/
+dist/
+build/
+.parcel-cache/
+*.local
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Reliability-check raw reveal key (kept private until Phase 4 is complete) ---
+data/reveal_key.csv
+
+# --- Internal planning docs, not part of the public repo ---
+LLM_Reliability_Leaderboard_Blueprint.md
+Builder.md
+.claude/

@@ -1,0 +1,14 @@
+# LLM Reliability Leaderboard - Python dependencies
+#
+# Kept minimal and scoped to work that exists now (Phase 1: dataset build/
+# validation) plus what Phase 2-5 will need imminently (model API calls,
+# blind scoring, reliability check, statistics). Dashboard (Phase 6) is a
+# separate React app with its own package.json, not listed here.
+
+pandas>=2.2          # CSV loading/manipulation for questions.csv, responses, scores
+requests>=2.31        # HTTP calls to LLM provider APIs (Phase 2: run_models.py)
+python-dotenv>=1.0    # Load API keys from a local .env file, kept out of git
+pytest>=8.0           # Test runner for tests/test_scorer.py and friends
+scipy>=1.12           # Chi-square test of independence (Phase 5)
+statsmodels>=0.14     # Logistic regression with coefficients, SEs, and CIs (Phase 5)
+scikit-learn>=1.4     # Cohen's kappa (sklearn.metrics.cohen_kappa_score) for Phase 4 reliability check
