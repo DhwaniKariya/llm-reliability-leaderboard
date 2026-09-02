@@ -639,6 +639,25 @@ Q014,GPT,gpt-5.6-luna,2026-08-28T16:43:03Z,"According to the **CDC (Centers for 
 - **Diastolic pressure:** less than **80 mm Hg**
 
 In other words, a reading below **120/80 mm Hg** is considered normal. A single reading may not reflect your usual blood pressure, so repeated measurements are often needed.",
+Q014,Gemini Flash,gemini-3.6-flash,2026-09-02T16:07:57Z,"According to the **Centers for Disease Control and Prevention (CDC)**, a normal blood pressure reading is defined as:
+
+* **Systolic (top number):** Less than 120 mmHg  
+* **Diastolic (bottom number):** Less than 80 mmHg  
+
+In medical terms, this is written as **less than 120/80 mmHg** (millimeters of mercury). Both numbers must fall below these thresholds for your blood pressure to be considered normal.
+
+---
+
+### CDC Blood Pressure Categories Overview
+
+For context, the CDC breaks down adult blood pressure readings into the following categories:
+
+* **Normal:** Systolic less than 120 **AND** Diastolic less than 80
+* **Elevated:** Systolic 120–129 **AND** Diastolic less than 80
+* **High Blood Pressure (Stage 1):** Systolic 130–139 **OR** Diastolic 80–89
+* **High Blood Pressure (Stage 2):** Systolic 140 or higher **OR** Diastolic 90 or higher
+
+*Note: If you are concerned about your blood pressure readings, it is always best to consult a healthcare provider for personalized medical advice.*",
 Q015,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T19:59:49Z,"# USPSTF Lung Cancer Screening Recommendation (2021)
 
 According to the **U.S. Preventive Services Task Force (USPSTF) 2021 update**, annual lung cancer screening with low-dose CT is recommended for:
@@ -663,6 +682,7 @@ Q015,GPT,gpt-5.6-luna,2026-08-28T16:43:07Z,"The **U.S. Preventive Services Task 
 A pack-year equals smoking one pack per day for one year. Screening should stop once a person has not smoked for 15 years, develops a health problem that substantially limits life expectancy or the ability to undergo curative lung surgery, or reaches age 81.
 
 **Source:** USPSTF, *Lung Cancer: Screening* recommendation (2021).",
+Q015,Gemini Flash,gemini-3.6-flash,2026-09-02T13:54:37Z,"[API_CALL_FAILED] exhausted retries: network error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)",
 Q016,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T19:59:53Z,"# USPSTF Mammogram Recommendations (2024)
 
 According to the **U.S. Preventive Services Task Force (USPSTF)**, the current recommendation is:
@@ -683,6 +703,7 @@ For personalized guidance, it's always best to discuss screening with your healt
 Q016,GPT,gpt-5.6-luna,2026-08-28T16:43:12Z,"The **U.S. Preventive Services Task Force (USPSTF) recommends that women at average risk start screening mammograms at age 40**, and continue **every other year through age 74**.
 
 This is from the USPSTF’s **2024 final recommendation** on breast cancer screening. Evidence is currently insufficient for routine screening recommendations for women **75 and older**. Women at higher risk may need a different screening plan.",
+Q016,Gemini Flash,gemini-3.6-flash,2026-09-02T14:03:16Z,"[API_CALL_FAILED] exhausted retries: network error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)",
 Q017,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T19:59:57Z,"# USPSTF Hepatitis C Screening Recommendations
 
 According to the **U.S. Preventive Services Task Force (USPSTF)**, the current recommendations for hepatitis C screening are:
@@ -710,6 +731,7 @@ Q017,GPT,gpt-5.6-luna,2026-08-28T16:43:15Z,"The **U.S. Preventive Services Task 
 - People **younger than 18 or older than 79** may also be screened if they have increased risk.
 
 For most adults, screening is a **one-time blood test**. This is the USPSTF’s current **Grade B recommendation** in its hepatitis C screening recommendation statement.",
+Q017,Gemini Flash,gemini-3.6-flash,2026-09-02T14:08:50Z,"[API_CALL_FAILED] exhausted retries: network error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)",
 Q018,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:00:00Z,"# USPSTF Anxiety Screening Recommendations
 
 Yes, the U.S. Preventive Services Task Force (USPSTF) does recommend screening for anxiety in adults, though with some specific parameters.
