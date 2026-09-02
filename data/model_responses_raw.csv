@@ -682,7 +682,24 @@ Q015,GPT,gpt-5.6-luna,2026-08-28T16:43:07Z,"The **U.S. Preventive Services Task 
 A pack-year equals smoking one pack per day for one year. Screening should stop once a person has not smoked for 15 years, develops a health problem that substantially limits life expectancy or the ability to undergo curative lung surgery, or reaches age 81.
 
 **Source:** USPSTF, *Lung Cancer: Screening* recommendation (2021).",
-Q015,Gemini Flash,gemini-3.6-flash,2026-09-02T13:54:37Z,"[API_CALL_FAILED] exhausted retries: network error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)",
+Q015,Gemini Flash,gemini-3.6-flash,2026-09-02T23:18:58Z,"According to the **U.S. Preventive Services Task Force (USPSTF)** 2021 recommendation statement, annual screening for lung cancer with low-dose computed tomography (LDCT) is recommended for adults who meet **all** of the following criteria:
+
+* **Age:** 50 to 80 years old
+* **Smoking history:** At least a **20 pack-year** smoking history
+* **Current status:** Currently smoke or have quit within the past 15 years
+
+---
+
+### What is a ""pack-year""?
+A pack-year is a way to measure how much a person has smoked over time. One pack-year equals smoking 1 pack of cigarettes (20 cigarettes) per day for 1 year. For example:
+* 1 pack per day for 20 years = **20 pack-years**
+* 2 packs per day for 10 years = **20 pack-years**
+* Half a pack per day for 40 years = **20 pack-years**
+
+### When does USPSTF recommend stopping screening?
+Screening should be discontinued once a person:
+* Has not smoked for 15 consecutive years, **or**
+* Develops a health problem that substantially limits life expectancy or the ability/willingness to undergo curative lung surgery.",
 Q016,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T19:59:53Z,"# USPSTF Mammogram Recommendations (2024)
 
 According to the **U.S. Preventive Services Task Force (USPSTF)**, the current recommendation is:
@@ -703,7 +720,15 @@ For personalized guidance, it's always best to discuss screening with your healt
 Q016,GPT,gpt-5.6-luna,2026-08-28T16:43:12Z,"The **U.S. Preventive Services Task Force (USPSTF) recommends that women at average risk start screening mammograms at age 40**, and continue **every other year through age 74**.
 
 This is from the USPSTF’s **2024 final recommendation** on breast cancer screening. Evidence is currently insufficient for routine screening recommendations for women **75 and older**. Women at higher risk may need a different screening plan.",
-Q016,Gemini Flash,gemini-3.6-flash,2026-09-02T14:03:16Z,"[API_CALL_FAILED] exhausted retries: network error: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=90)",
+Q016,Gemini Flash,gemini-3.6-flash,2026-09-02T23:19:18Z,"According to the U.S. Preventive Services Task Force (USPSTF) updated final recommendations released in April 2024, women should start getting screening mammograms at **age 40**. 
+
+Here are the key details of the USPSTF's 2024 guidelines:
+
+* **Starting Age:** 40 years old (lowered from the previous recommendation of age 50).
+* **Frequency:** Every 2 years (biennial).
+* **Age Range:** Women aged 40 to 74 who are at average risk for breast cancer. 
+
+*Note: These recommendations apply to women, cisgender women, and all other persons assigned female at birth who are at average risk for breast cancer. If you have a family history of breast cancer, dense breasts, or higher risk factors, you should talk to your doctor about whether to start screening even earlier or get additional testing.*",
 Q017,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T19:59:57Z,"# USPSTF Hepatitis C Screening Recommendations
 
 According to the **U.S. Preventive Services Task Force (USPSTF)**, the current recommendations for hepatitis C screening are:
