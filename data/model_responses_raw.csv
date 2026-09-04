@@ -2158,6 +2158,37 @@ According to the **National Sleep Foundation**, older adults may sleep slightly 
 Sleep needs vary by person. Regularly sleeping fewer than about 7 hours, feeling excessively sleepy, or having persistent trouble sleeping may indicate a problem such as sleep apnea, insomnia, medication effects, depression, or another medical condition. In those cases, it’s worth discussing with a healthcare professional.
 
 **Sources:** Centers for Disease Control and Prevention (CDC), *How Much Sleep Do I Need?*; National Institute on Aging, *Sleep and Older Adults*.",
+Q036,Gemini Flash,gemini-3.6-flash,2026-09-04T21:48:43Z,"**No, older adults do not need significantly less sleep than younger adults.** 
+
+It is a common myth that as people age, their bodies naturally require much less sleep. In reality, the actual *need* for sleep remains relatively constant throughout adulthood, though the *ability* to get long, uninterrupted sleep often changes.
+
+### What the Guidelines Say
+According to sleep recommendations from the **Centers for Disease Control and Prevention (CDC)** and the **National Sleep Foundation**:
+
+*   **Adults (ages 18–64):** 7 to 9 hours per night
+*   **Older adults (ages 65 and older):** 7 to 8 hours per night
+
+As you can see, the recommended amount drops by only about an hour at most. 
+
+### Why People Think Older Adults Need Less Sleep
+While the amount of sleep needed stays roughly the same, the **National Institute on Aging (NIA)** notes that aging causes natural changes in sleep patterns, which leads to the misconception that older adults need less rest:
+
+1. **Shifts in Circadian Rhythms:** As people age, their internal biological clock shifts earlier. Older adults tend to get sleepy earlier in the evening and wake up earlier in the morning.
+2. **Lighter Sleep:** Older adults spend less time in deep, slow-wave sleep and REM sleep. Because their sleep is lighter, they are easily awakened by noise, light, or discomfort.
+3. **Frequent Awakenings:** Nighttime trips to the bathroom (nocturia), joint pain, arthritis, or other health conditions cause older adults to wake up multiple times throughout the night.
+4. **Medications:** Many health conditions common in older age require medications that can interfere with sleep quality.
+
+Because older adults may spend 8 hours in bed but only get 5 or 6 hours of actual sleep, they may mistakenly believe they simply ""don't need as much sleep anymore.""
+
+### Why Adequate Sleep Still Matters
+Not getting enough sleep can negatively affect older adults just as much as younger adults. Chronic sleep loss in older age is linked to:
+* Increased risk of falls and accidents
+* Memory problems and cognitive decline
+* Mood changes, such as irritability or depression
+* A weakened immune system
+
+### The Bottom Line
+If an older adult feels rested and alert during the day after 7 hours of sleep, that is completely healthy. However, if an older adult is frequently tired, waking up repeatedly, or struggling to stay awake during the day, it is not simply a normal part of aging. The **National Institute on Aging** recommends speaking with a healthcare provider to check for underlying sleep disorders (like sleep apnea or restless legs syndrome) or side effects from medications.",
 Q037,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:01:25Z,"# Is Dementia an Inevitable Part of Aging?
 
 **No, developing dementia is not an inevitable part of getting old.** While dementia risk increases with age, many people live into their 80s, 90s, and beyond without developing it.
@@ -2204,6 +2235,34 @@ Regular exercise, managing medical conditions, not smoking, limiting alcohol, st
 If memory or thinking problems are worsening or affecting finances, medication use, driving, work, or daily life, it is worth speaking with a healthcare professional. Some causes of cognitive problems are treatable and are not dementia.
 
 Sources: **National Institute on Aging (NIA), “What Is Dementia?”** and the **World Health Organization, “Dementia”**.",
+Q037,Gemini Flash,gemini-3.6-flash,2026-09-04T21:48:56Z,"**No, developing dementia is not an inevitable part of getting old.** 
+
+While advancing age is the single greatest risk factor for dementia, the condition is a result of specific diseases that damage brain cells, not a natural outcome of the aging process. Many people live into their 80s, 90s, and beyond without ever developing dementia.
+
+Here is a closer look at why dementia is not an unavoidable part of aging, along with what current research says:
+
+### Normal Aging vs. Dementia
+It is normal for the brain to change as you age. Normal, age-related changes might include occasionally misplacing your glasses, taking longer to recall a specific word, or forgetting which day of the week it is for a moment. 
+
+Dementia, however, involves severe cognitive decline that goes far beyond typical aging. According to the **National Institute on Aging (NIA)**, dementia involves damage to nerve cells in the brain that disrupts a person's ability to think, remember, reason, and function independently in daily life. 
+
+### Why People Conflate Aging and Dementia
+The risk of developing a brain disease that causes dementia—such as Alzheimer’s disease or vascular dementia—doubles roughly every five years after age 65. Because these diseases become much more common in older adults, people often mistake dementia for a normal part of getting older. However, getting older increases your *risk* for the disease; it does not guarantee you will get it.
+
+### Can You Prevent Dementia?
+While some risk factors (like age and genetics) cannot be changed, a significant portion of dementia risk is within a person's control. 
+
+A landmark report updated in 2024 by **The Lancet Commission on Dementia Prevention, Intervention, and Care** identified that nearly **45% of dementia cases worldwide could potentially be prevented or delayed** by addressing 14 modifiable risk factors throughout life. 
+
+According to **The Lancet** and the **World Health Organization (WHO)**, key ways to reduce your risk include:
+* **Protecting heart health:** Managing high blood pressure, diabetes, and high cholesterol (what is good for the heart is generally good for the brain).
+* **Staying physically active:** Regular exercise increases blood flow to the brain.
+* **Staying socially and mentally engaged:** Continuous learning, hobbies, and social interactions build cognitive resilience.
+* **Treating hearing and vision loss:** Correcting sensory impairment reduces cognitive strain and social isolation.
+* **Adopting healthy habits:** Avoiding smoking, limiting alcohol consumption, and prioritizing good sleep.
+
+### The Bottom Line
+Aging does make the brain more vulnerable to disease, but dementia is a medical condition, not a natural stage of life. Taking steps to maintain a healthy lifestyle can significantly protect your brain as you age.",
 Q038,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:01:30Z,"# Osteoporosis Affects Both Men and Women
 
 No, osteoporosis is not just a women's health issue, though it's more common in women.
@@ -2245,6 +2304,35 @@ Risk factors for men and women include:
 - Low testosterone in men or early menopause in women  
 
 To help protect bone health, most adults should get adequate calcium and vitamin D, do weight-bearing and resistance exercise, avoid smoking, limit alcohol, and reduce fall risks. Bone-density testing is commonly recommended for women at age 65, while men and younger people may need testing based on their risk factors. Discuss your individual risk with a healthcare professional.",
+Q038,Gemini Flash,gemini-3.6-flash,2026-09-04T21:49:06Z,"**No, osteoporosis is not only something women need to worry about.** While it is more common in women, men can—and do—develop osteoporosis. 
+
+Because osteoporosis is often mistakenly viewed as a ""woman's disease,"" men are frequently diagnosed much later, making the condition more dangerous when it does occur.
+
+Here is a breakdown of what you need to know about men and osteoporosis:
+
+### The Numbers: Osteoporosis in Men
+* **1 in 5 Men:** According to the **International Osteoporosis Foundation**, approximately 1 in 5 men over the age of 50 will suffer a bone fracture caused by osteoporosis in their remaining lifetime.
+* **Millions Affected:** The **Bone Health and Osteoporosis Foundation (BHOF)** estimates that up to 2 million American men currently have osteoporosis, and another 12 million are at risk for low bone mass (osteopenia).
+
+### Why Men Are Often at Higher Risk of Complications
+Women tend to lose bone density rapidly in the years immediately following menopause due to a sharp drop in estrogen. Men do not experience this rapid drop, but they do lose bone density gradually as they age. 
+
+By age 65 or 70, men and women lose bone mass at roughly the same rate. However, because men are screened for osteoporosis less often, they are less likely to be treated before a fracture occurs. Studies cited by the **National Institutes of Health (NIH)** show that men who suffer a hip fracture are actually more likely than women to suffer serious complications or die within the year following the injury.
+
+### Risk Factors for Men
+Men can develop ""primary"" osteoporosis due to aging, but they are also much more likely than women to suffer from ""secondary"" osteoporosis—meaning the bone loss is caused by a separate medical issue or lifestyle factor. Major risk factors for men include:
+
+* **Low Testosterone:** Hypogonadism (low levels of the hormone testosterone) is a major cause of bone loss in men.
+* **Medications:** Long-term use of steroid medications (like prednisone, often used for asthma or arthritis) or treatments for prostate cancer (androgen deprivation therapy) significantly weaken bones.
+* **Lifestyle Factors:** Heavy alcohol consumption, smoking, and a lack of physical activity.
+* **Underlying Health Conditions:** Chronic kidney, liver, or thyroid disease, as well as conditions that affect nutrient absorption (like Celiac disease).
+
+### What You Should Do
+Regardless of your gender, bone health is important. 
+
+* **Maintain a healthy diet:** Ensure adequate intake of Calcium and Vitamin D.
+* **Stay active:** Do weight-bearing exercises (walking, jogging, weight training) to keep bones strong.
+* **Get screened:** The BHOF recommends that all men age 70 and older (or men ages 50–69 with risk factors) speak to their doctor about getting a simple, painless bone density test (a DEXA scan).",
 Q039,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:01:34Z,"# What Insulin Does in the Body
 
 Insulin is a hormone produced by your pancreas that plays a crucial role in managing blood sugar levels. Here's what it does:
@@ -2277,6 +2365,35 @@ When blood sugar rises, insulin:
 - **Slows the breakdown of fat and muscle** for energy.
 
 Overall, insulin **lowers blood glucose and helps keep the body’s energy supply balanced**. In diabetes, the body may not make enough insulin or may not respond to it effectively, causing blood sugar to remain too high.",
+Q039,Gemini Flash,gemini-3.6-flash,2026-09-04T21:49:18Z,"**Insulin is a essential hormone produced by your pancreas that acts like a ""key"" to help your body use and store energy from the food you eat.**
+
+Its primary job is to regulate your blood sugar (glucose) levels and keep them from getting too high or too low. 
+
+Here is a breakdown of what insulin does in the body:
+
+### 1. Unlocks cells to provide energy
+When you eat, your digestive system breaks down carbohydrates into glucose, which enters your bloodstream. As your blood sugar rises, your pancreas releases insulin. Insulin binds to receptors on your cells—primarily in your muscles and fat—acting like a key that unlocks the cells so glucose can enter and be used for immediate energy.
+
+### 2. Stores extra energy for later
+Your body doesn't always need to use all the glucose from a meal right away. Insulin helps save this extra energy for later in two ways:
+* **In the liver and muscles:** Insulin signals the liver and muscle tissue to store excess glucose as **glycogen**. This stored sugar is released later when you need energy between meals or during exercise.
+* **In fat cells:** Once your liver and muscles are full of glycogen, insulin directs any remaining excess glucose to be converted and stored as fat.
+
+### 3. Prevents the breakdown of stored fat and muscle
+Insulin is a ""building"" (anabolic) hormone. When insulin levels are high (after a meal), it tells your body that plenty of fuel is available in the bloodstream. This stops the body from burning its own fat or muscle tissue for energy.
+
+---
+
+### How the Process Works (Step-by-Step)
+According to the **Mayo Clinic**, the insulin process works in a continuous loop to keep your body balanced:
+1. You eat food, raising your blood glucose levels.
+2. The pancreas senses the increase and secretes insulin into the bloodstream.
+3. Insulin allows glucose to enter your cells, causing blood sugar levels to drop.
+4. As blood sugar drops, the pancreas slows down its production of insulin.
+
+### What happens when insulin doesn't work properly?
+* **Type 1 Diabetes:** The body's immune system mistakenly destroys the cells in the pancreas that make insulin, meaning the body produces little to no insulin and it must be taken manually.
+* **Type 2 Diabetes & Insulin Resistance:** The pancreas produces insulin, but the body's cells stop responding to it effectively (insulin resistance). Over time, blood sugar levels rise because the glucose cannot get inside the cells.",
 Q040,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:01:38Z,"# First-Line Treatment for Mild Dehydration from Diarrhea
 
 The first-line treatment for mild dehydration caused by diarrhea is **oral rehydration therapy (ORT)** using oral rehydration solutions (ORS).
@@ -2321,6 +2438,44 @@ Q040,GPT,gpt-5.6-luna,2026-08-28T16:45:48Z,"The **first-line treatment for mild 
 - For children, **zinc supplementation** may also be recommended in some settings, especially where advised by a clinician.
 
 Seek medical care urgently for severe thirst, very little or no urination, lethargy, confusion, inability to drink, blood in the stool, persistent vomiting, or dehydration in a very young infant. The **World Health Organization (WHO)** and **CDC** recommend ORS as the standard initial treatment.",
+Q040,Gemini Flash,gemini-3.6-flash,2026-09-04T21:49:28Z,"The first-line treatment for mild dehydration caused by diarrhea is **Oral Rehydration Therapy (ORT)** using an **Oral Rehydration Solution (ORS)**. 
+
+According to guidelines from the **World Health Organization (WHO)** and the **Centers for Disease Control and Prevention (CDC)**, ORS is the most effective way to replace the water and essential electrolytes (such as sodium and potassium) lost during diarrhea.
+
+---
+
+### What is an Oral Rehydration Solution (ORS)?
+An ORS is a specific mixture of clean water, salts, and glucose (sugar). The sugar helps the intestines absorb the sodium and water much more efficiently than water alone.
+
+* **Where to get it:** You can buy pre-mixed liquids or powder packets to mix with clean water over-the-counter at most pharmacies and grocery stores (common brand names include **Pedialyte**, **Liquid I.V.** rehydration formulations, or generic store-brand rehydration solutions).
+* **Homemade alternatives:** The **WHO** provides a standard formula if commercial packets aren't available: 6 level teaspoons of sugar and 1/2 level teaspoon of salt dissolved in 1 liter of clean water. (Pre-measured commercial packets are preferred to avoid mixing errors).
+
+---
+
+### How to Take It
+* **Start small:** Take small, frequent sips rather than gulping large amounts at once, especially if you feel nauseous. For young children, try giving a teaspoon or small syringe of fluid every few minutes.
+* **Eat as tolerated:** Once rehydration is underway, the **American Academy of Pediatrics (AAP)** recommends continuing a regular, age-appropriate diet. You do not need to stick strictly to a bland diet (like the old BRAT diet), though bland foods are often easier on the stomach.
+
+---
+
+### What to Avoid
+* **Plain water alone:** While drinking water is good, relying *only* on large amounts of plain water does not replace lost electrolytes and can sometimes lead to dangerously low sodium levels.
+* **Sugary drinks:** Avoid sodas, sweetened fruit juices, energy drinks, and undiluted sports drinks (like Gatorade). High concentrations of sugar can actually draw water back into the intestines, worsening diarrhea (known as osmotic diarrhea).
+* **Boiled milk or caffeinated drinks:** These can aggravate the stomach or act as a diuretic.
+
+---
+
+### When to Seek Immediate Medical Care
+Mild dehydration can usually be managed at home, but you should see a doctor or go to urgent care if you notice signs of **moderate to severe dehydration**, including:
+
+* Extreme thirst, dry mouth, or lack of tears when crying (in infants)
+* Little to no urination (or no wet diapers for 3–4 hours in infants)
+* Dizziness, lightheadedness, confusion, or extreme lethargy
+* High fever or severe abdominal pain
+* Stools that are bloody, black, or contain pus
+* Inability to keep fluids down due to persistent vomiting
+
+*(Sources explicitly referenced: World Health Organization, Centers for Disease Control and Prevention, American Academy of Pediatrics)*",
 Q041,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:01:42Z,"# How High Blood Pressure Is Diagnosed
 
 High blood pressure (hypertension) is diagnosed through **blood pressure readings**, which measure the force of blood against artery walls. Here's how the process typically works:
@@ -2381,6 +2536,56 @@ Definitions vary somewhat by country and guideline. For example, some guidelines
 A clinician may also order blood and urine tests, check kidney function, cholesterol and blood sugar, perform an eye or heart examination, and review medications and other conditions—both to look for causes and to assess possible effects of high blood pressure.
 
 A reading of **180/120 mm Hg or higher** should be repeated after a few minutes. If it remains that high, contact a healthcare professional promptly; seek emergency care immediately if it occurs with chest pain, shortness of breath, weakness, confusion, vision changes, or a severe headache.",
+Q041,Gemini Flash,gemini-3.6-flash,2026-09-04T21:49:39Z,"High blood pressure (hypertension) is diagnosed using a quick, painless test with a standard blood pressure cuff. Because blood pressure naturally goes up and down throughout the day, a doctor will rarely diagnose high blood pressure based on a single high reading. 
+
+According to guidelines from the **American Heart Association (AHA)** and the **American College of Cardiology (ACC)**, the diagnostic process typically involves the following steps:
+
+---
+
+### 1. Initial Blood Pressure Measurement
+A Healthcare provider wraps an inflatable cuff around your arm. The cuff measures two numbers, expressed in millimeters of mercury (mm Hg):
+*   **Systolic pressure (top number):** Measures the pressure in your arteries when your heart beats.
+*   **Diastolic pressure (bottom number):** Measures the pressure in your arteries when your heart rests between beats.
+
+---
+
+### 2. Understanding the Diagnostic Categories
+The AHA/ACC guidelines classify adult blood pressure into four main categories:
+
+| Category | Systolic (Top Number) | | Diastolic (Bottom Number) |
+| :--- | :--- | :--- | :--- |
+| **Normal** | Less than 120 | **and** | Less than 80 |
+| **Elevated** | 120–129 | **and** | Less than 80 |
+| **Stage 1 Hypertension** | 130–139 | **or** | 80–89 |
+| **Stage 2 Hypertension** | 140 or higher | **or** | 90 or higher |
+
+*Note: If your reading is higher than 180/120 mm Hg, it is considered a **hypertensive crisis**, requiring immediate medical attention.*
+
+---
+
+### 3. Confirming the Diagnosis
+To formally diagnose high blood pressure, your doctor will usually ask for:
+*   **Multiple Readings Over Time:** You will typically need elevated readings from two or more separate appointments.
+*   **Home Blood Pressure Monitoring:** Your doctor may ask you to keep a log of your blood pressure taken at home at consistent times each day.
+*   **Ambulatory Monitoring:** In some cases, a 24-hour wearable device that automatically takes your blood pressure throughout the day and night is used. 
+
+This helps rule out **""white coat hypertension""** (a temporary rise in blood pressure due to stress at the doctor’s office) or **""masked hypertension""** (normal readings at the doctor, but high readings elsewhere).
+
+---
+
+### 4. Follow-Up Testing
+Once high blood pressure is diagnosed, your doctor may recommend basic tests to check for underlying medical conditions or to see if the high blood pressure has caused damage to other organs:
+*   **Blood tests:** To check cholesterol levels, blood sugar, and kidney function.
+*   **Urine tests:** To look for signs of kidney disease.
+*   **Electrocardiogram (ECG/EKG):** A quick test to check your heart’s electrical activity and look for signs of heart strain.
+
+---
+
+### How to Get an Accurate Reading
+To ensure your test results are accurate during a checkup:
+*   Avoid caffeine, exercise, and smoking for 30 minutes before the test.
+*   Sit quietly for 5 minutes before the reading is taken.
+*   Sit with your back supported, feet flat on the floor, and your arm resting on a table at heart level.",
 Q042,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:01:46Z,"# How High Cholesterol Is Diagnosed
 
 High cholesterol is typically diagnosed through a **blood test called a lipid panel** (also called a lipid profile). Here's how the process usually works:
@@ -2422,6 +2627,41 @@ A healthcare professional interprets these results along with your age, blood pr
 The test often **does not require fasting**, although a clinician may request fasting—especially if triglycerides are high or a more accurate measurement is needed. If results are unexpectedly abnormal, the test may be repeated. Your clinician may also check for contributing conditions such as diabetes, thyroid disease, liver or kidney problems, or medication effects.
 
 The **Centers for Disease Control and Prevention (CDC)** and the **American Heart Association (AHA)** recommend discussing when to begin and repeat cholesterol screening based on individual risk.",
+Q042,Gemini Flash,gemini-3.6-flash,2026-09-04T21:49:49Z,"High cholesterol is usually diagnosed through a simple blood test called a **lipid panel** (or **lipid profile**). Because high cholesterol typically has no symptoms, regular blood screenings are the only way to detect it.
+
+Here is a breakdown of how the diagnosis works, what the test measures, and how often you should be tested.
+
+---
+
+### 1. The Diagnostic Test: A Lipid Panel
+A lipid panel measures the amount of specific fats (lipids) in your blood. The blood sample is usually drawn from a vein in your arm at a doctor’s office or lab. 
+
+The test measures four key components:
+*   **LDL (Low-Density Lipoprotein):** Often called ""bad"" cholesterol. High levels lead to plaque buildup in your arteries, increasing the risk of heart disease and stroke.
+*   **HDL (High-Density Lipoprotein):** Often called ""good"" cholesterol. It helps carry excess cholesterol away from your arteries and back to the liver to be removed.
+*   **Triglycerides:** A type of fat in your blood used for energy. High levels, combined with high LDL, increase heart risk.
+*   **Total Cholesterol:** The overall amount of cholesterol in your blood (calculated from your LDL, HDL, and a portion of your triglycerides).
+
+### 2. How to Prepare for the Test
+In the past, patients were always required to **fast (avoid eating or drinking anything except water) for 9 to 12 hours** before the blood draw. 
+
+Today, medical guidelines have evolved. While fasting is still recommended for the most precise measurement of triglycerides and LDL, many healthcare providers now accept **non-fasting** blood tests for basic initial screenings. Your doctor will let you know if you need to fast before your appointment.
+
+### 3. Understanding the Results
+Cholesterol is measured in milligrams per deciliter of blood (mg/dL). According to the **American Heart Association (AHA)**, doctors generally look for the following total cholesterol ranges for adults:
+
+*   **Desirable:** Less than 200 mg/dL
+*   **Borderline high:** 200 to 239 mg/dL
+*   **High:** 240 mg/dL and above
+
+*Note: Doctors no longer look at total cholesterol numbers in isolation. They evaluate your LDL, HDL, and triglycerides alongside your age, blood pressure, smoking status, and overall health to assess your personal risk for heart disease.*
+
+### 4. How Often Should You Be Diagnosed/Screened?
+Because cholesterol levels change over time, regular testing is necessary. According to the **Centers for Disease Control and Prevention (CDC)**:
+
+*   **Healthy Adults:** Most adults should have their cholesterol checked every **4 to 6 years**.
+*   **Children and Teens:** Children should have their cholesterol checked at least once between ages **9 and 11**, and again between ages **17 and 21**.
+*   **Higher Risk Adults:** People with diabetes, heart disease, high blood pressure, or a family history of high cholesterol may need to be tested much more frequently, often once a year or as advised by their doctor.",
 Q043,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:01:51Z,"# Daily Sodium Limits for Adults
 
 According to the **U.S. Department of Health and Human Services and the American Heart Association**, adults should limit sodium intake to **less than 2,300 milligrams (mg) per day** — roughly equivalent to one teaspoon of salt.
@@ -2440,6 +2680,18 @@ The 2,300 mg limit is the official guideline most government health agencies use
 Q043,GPT,gpt-5.6-luna,2026-08-28T16:46:06Z,"Most adults should limit sodium to **less than 2,300 mg per day**—about **1 teaspoon of table salt** total from all foods and drinks, according to the **U.S. Dietary Guidelines for Americans** and the **FDA**.
 
 For people with high blood pressure, heart disease, kidney disease, or increased cardiovascular risk, the **American Heart Association** recommends an ideal limit of **1,500 mg per day**, if possible. Sodium is a component of salt, so **2,300 mg of sodium is not the same as 2,300 mg of salt**.",
+Q043,Gemini Flash,gemini-3.6-flash,2026-09-04T21:49:59Z,"For healthy adults, the official recommendation is to limit sodium to **less than 2,300 milligrams (mg) per day**. This is roughly equal to **1 teaspoon of table salt**. 
+
+However, recommended limits vary slightly depending on health organizations and individual health conditions:
+
+* **U.S. Dietary Guidelines and the FDA:** The **U.S. Food and Drug Administration (FDA)** and the **U.S. Department of Agriculture (USDA)** recommend a maximum of **2,300 mg per day** for adults and children aged 14 and older.
+* **American Heart Association (AHA):** The AHA recommends an upper limit of 2,300 mg per day, but suggests an **ideal limit of no more than 1,500 mg per day** for most adults, especially those with high blood pressure, diabetes, or cardiovascular disease.
+* **World Health Organization (WHO):** The WHO recommends that adults consume less than **2,000 mg of sodium per day** (equivalent to 5 grams of salt).
+
+### Context: How Much Are People Actually Eating?
+According to the **Centers for Disease Control and Prevention (CDC)**, the average American adult consumes more than **3,400 mg of sodium per day**—well above the recommended limit. 
+
+Over 70% of the sodium consumed by Americans comes from processed, packaged, and restaurant foods, rather than from salt added at the dinner table. High sodium intake can lead to high blood pressure, heart disease, and stroke.",
 Q044,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:01:55Z,"# Daily Calcium Requirements for Adults
 
 ## General Recommendations
@@ -2480,6 +2732,28 @@ Pregnant or breastfeeding adults generally need **1,000 mg/day**—or **1,300 mg
 So, calcium needs increase for **women starting at age 51** and for **everyone at age 71**. These amounts include calcium from food, beverages, and supplements. Food sources such as dairy products, calcium-fortified plant milks, tofu made with calcium, canned fish with bones, and some leafy greens are generally preferred.
 
 The main source is the **National Institutes of Health Office of Dietary Supplements (NIH ODS), “Calcium – Fact Sheet for Health Professionals.”** Individual needs may differ with conditions such as osteoporosis, kidney disease, or problems absorbing nutrients.",
+Q044,Gemini Flash,gemini-3.6-flash,2026-09-04T21:50:06Z,"Yes, the amount of calcium an adult needs per day **does change with age**, and it also depends on your sex. 
+
+According to guidelines established by the **National Institutes of Health (NIH) Office of Dietary Supplements**, here is the recommended daily allowance (RDA) for adult calcium intake:
+
+*   **Adults aged 19 to 50:** 1,000 mg per day
+*   **Men aged 51 to 70:** 1,000 mg per day
+*   **Women aged 51 to 70:** 1,200 mg per day
+*   **Adults aged 71 and older:** 1,200 mg per day (for both men and women)
+*   **Pregnant and breastfeeding adults:** 1,000 mg per day
+
+### Why does the recommendation change with age?
+
+As people age, their bodies become less efficient at absorbing calcium, and bones naturally begin to lose density. 
+
+*   **For women over 50:** Estrogen levels drop significantly after menopause. Because estrogen helps keep calcium in the bones, women in this age group experience faster bone loss and require an extra 200 mg per day to help protect against osteoporosis.
+*   **For men over 70:** Bone loss slows down in men compared to women, but by age 71, men also begin losing bone mass at a faster rate, triggering the need for 1,200 mg per day.
+
+### Important tips to keep in mind:
+
+1.  **More isn't always better:** The **Mayo Clinic** notes that getting too much calcium (over 2,000 to 2,500 mg a day from supplements) can lead to side effects like kidney stones, constipation, or issues with absorbing other nutrients. 
+2.  **Don't forget Vitamin D:** Your body needs Vitamin D to absorb calcium effectively. Adults under 70 generally need 600 IU (International Units) of Vitamin D daily, while adults 70 and older need 800 IU.
+3.  **Food first:** Health organizations recommend getting as much of your calcium as possible through food (dairy products, leafy greens, fortified plant milks, and canned fish with bones) before turning to supplements.",
 Q045,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:01:59Z,"# Folic Acid Recommendations for Women of Childbearing Age
 
 According to the **CDC and U.S. Preventive Services Task Force**, women who could become pregnant should take **400 micrograms (0.4 mg) of folic acid daily**.
@@ -2501,6 +2775,20 @@ If you're planning pregnancy or are capable of becoming pregnant, it's worth dis
 Q045,GPT,gpt-5.6-luna,2026-08-28T16:46:18Z,"Women capable of becoming pregnant should take **400 micrograms (mcg) of folic acid daily**—even if they are not planning a pregnancy. The **CDC** recommends this amount to help prevent serious birth defects of the baby’s brain and spine. It is especially important to begin at least **1 month before conception** and continue during early pregnancy.
 
 Women who have had a pregnancy affected by a neural-tube defect may need **4,000 mcg daily**, but only under a healthcare professional’s direction.",
+Q045,Gemini Flash,gemini-3.6-flash,2026-09-04T21:50:14Z,"Women who are capable of becoming pregnant should take **400 micrograms (mcg)** of folic acid every day. 
+
+According to guidelines from both the **Centers for Disease Control and Prevention (CDC)** and the **U.S. Preventive Services Task Force (USPSTF)**, taking 400 mcg of folic acid daily helps prevent major birth defects of the baby's brain and spine, known as neural tube defects (such as spina bifida and anencephaly).
+
+### Why start taking it before pregnancy?
+These birth defects develop in the first 3 to 4 weeks of pregnancy—often before a woman even realizes she is pregnant. Because about half of all pregnancies in the U.S. are unplanned, health organizations recommend that *all* women of reproductive age take a daily folic acid supplement, even if they are not actively trying to conceive.
+
+### How to get 400 mcg of folic acid:
+* **Supplements:** Most standard over-the-counter multivitamins or prenatal vitamins contain 400 mcg (or 0.4 mg) of folic acid. 
+* **Fortified Foods:** You can also get folic acid from enriched foods, such as fortified breakfast cereals, bread, pasta, and rice. 
+* **Natural Folate:** A healthy diet rich in natural folate (found in dark leafy greens, beans, nuts, and citrus fruits) is great for overall health, but the CDC notes that it is difficult for most women to get enough folate through food alone to prevent neural tube defects. 
+
+### Are there exceptions for a higher dose?
+Yes. If you have a higher risk of having a baby with a neural tube defect—for example, if you have previously had a pregnancy affected by spina bifida, or if you take certain medications for seizures—the **American College of Obstetricians and Gynecologists (ACOG)** recommends a much higher prescription dose (often 4,000 mcg or 4 mg daily) starting before pregnancy. If this applies to you, speak with a doctor to get the correct recommended dosage.",
 Q046,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:02:03Z,"# A1C Levels and Diabetes Classification
 
 Here are the standard A1C cutoffs used by the American Diabetes Association (ADA):
@@ -2531,6 +2819,18 @@ Q046,GPT,gpt-5.6-luna,2026-08-28T16:46:23Z,"According to the **American Diabetes
 - **Diabetes:** A1C **6.5% or higher**
 
 An A1C in the diabetes range usually needs to be **confirmed with a repeat A1C or another diabetes test** unless there are clear symptoms or very high glucose levels. A1C may be less reliable in situations such as pregnancy, anemia, certain blood disorders, or recent blood loss.",
+Q046,Gemini Flash,gemini-3.6-flash,2026-09-04T21:50:22Z,"According to the **American Diabetes Association (ADA)**, standard A1C test results are categorized as follows:
+
+* **Normal:** Below 5.7%
+* **Prediabetes:** 5.7% to 6.4%
+* **Diabetes:** 6.5% or higher
+
+### What does the A1C test measure?
+The A1C test (sometimes called the HbA1c test) measures the percentage of your red blood cells that have sugar-coated hemoglobin. It reflects your average blood sugar level over the past **2 to 3 months**. 
+
+### Important Things to Know
+* **Confirmation:** The **Centers for Disease Control and Prevention (CDC)** notes that a single A1C test result of 6.5% or higher usually needs to be repeated on a different day to confirm a diabetes diagnosis, unless you already have clear symptoms of high blood sugar.
+* **Target goals vary:** If you have already been diagnosed with diabetes, the ADA generally recommends aiming for an A1C goal of **under 7.0%**, though your personal target may be lower or higher depending on your age, overall health, and treatment plan.",
 Q047,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:02:07Z,"# Daily Dietary Fiber Recommendations for Adults
 
 According to the **Academy of Nutrition and Dietetics** and guidelines from the **U.S. Department of Agriculture (USDA)**, adult recommendations are:
@@ -2571,6 +2871,27 @@ A general guideline is **14 grams of fiber per 1,000 calories consumed**. The U.
 Increase fiber gradually and drink enough fluids to reduce bloating or constipation. Good sources include beans, whole grains, fruits, vegetables, nuts, and seeds.
 
 **Sources:** *Dietary Guidelines for Americans* and the U.S. Food and Drug Administration (Nutrition Facts label Daily Value).",
+Q047,Gemini Flash,gemini-3.6-flash,2026-09-04T21:50:28Z,"According to the **Dietary Guidelines for Americans** (issued by the U.S. Department of Agriculture and the Department of Health and Human Services), the recommended daily fiber intake for adults depends on age and sex:
+
+*   **Women under 50:** 25 grams per day
+*   **Women 50 and older:** 21 grams per day
+*   **Men under 50:** 38 grams per day
+*   **Men 50 and older:** 30 grams per day
+
+Another common guideline set by the **Institute of Medicine** is to aim for **14 grams of fiber for every 1,000 calories** you consume. 
+
+### The ""Fiber Gap""
+Despite these recommendations, most adults do not get enough fiber. The **American Heart Association** notes that the average American adult eats only about **15 grams of fiber per day**—roughly half of the recommended amount.
+
+### Good Sources of Fiber
+You can boost your fiber intake by eating more:
+*   **Legumes:** Beans, lentils, and chickpeas
+*   **Whole Grains:** Oatmeal, brown rice, quinoa, and whole-wheat bread
+*   **Fruits:** Berries, apples (with the skin), pears, and oranges
+*   **Vegetables:** Broccoli, Brussels sprouts, carrots, and leafy greens
+*   **Nuts and Seeds:** Chia seeds, flaxseeds, and almonds
+
+*Note: If you plan to increase your fiber intake, experts at the **Mayo Clinic** recommend doing so **gradually** over a few weeks and drinking plenty of **water**. Adding fiber too quickly can cause gas, bloating, and abdominal cramps.*",
 Q048,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:02:11Z,"# Maximum Safe Daily Dose of Acetaminophen
 
 The maximum safe daily dose of acetaminophen for adults is **3,000 to 4,000 mg per day**, with most health authorities recommending **3,000 mg as the safer limit**.
@@ -2605,6 +2926,36 @@ Use extra caution and ask a healthcare professional before taking acetaminophen 
 - Take other medicines containing acetaminophen
 
 The **U.S. Food and Drug Administration (FDA)** advises not exceeding 4,000 mg per day from all products. If you may have taken too much, contact **Poison Control in the U.S. at 1-800-222-1222** or seek emergency care immediately—even if you feel well, since liver damage can initially cause few symptoms.",
+Q048,Gemini Flash,gemini-3.6-flash,2026-09-04T21:50:36Z,"For healthy adults, the absolute maximum safe daily dose of acetaminophen (the active ingredient in Tylenol) is **4,000 milligrams (mg)** in a 24-hour period. 
+
+However, to provide an extra margin of safety against accidental overdose, the **U.S. Food and Drug Administration (FDA)** and the makers of Tylenol (**Kenvue**, formerly McNeil Consumer Healthcare) recommend a lower daily limit of **3,000 mg to 3,250 mg** for many of their products.
+
+---
+
+### Safe Dosage Breakdown for Healthy Adults
+
+* **Maximum limit per 24 hours:** 3,000 mg to 4,000 mg.
+* **Maximum limit per single dose:** 1,000 mg.
+* **Time interval:** Wait at least 4 to 6 hours between doses.
+
+*Example:* 
+* **Regular Strength Tylenol (325 mg per pill):** No more than 10 pills per day (3,250 mg total).
+* **Extra Strength Tylenol (500 mg per pill):** No more than 6 pills per day (3,000 mg total).
+
+---
+
+### Important Safety Warnings
+
+1. **Watch for ""Hidden"" Acetaminophen:** 
+   Acetaminophen is found in over 600 different prescription and over-the-counter medications, including cough and cold products (like NyQuil or DayQuil), allergy remedies, and prescription painkillers (like Vicodin or Percocet). Combining these with Tylenol can lead to an accidental overdose. Look for ""acetaminophen"" or ""APAP"" on the label.
+
+2. **Alcohol Consumption:** 
+   If you drink 3 or more alcoholic beverages every day, taking acetaminophen increases your risk of severe liver damage. The **FDA** advises people who consume alcohol regularly to talk to their doctor before taking acetaminophen, as a safe limit for them is often lower (usually no more than 2,000 mg per day).
+
+3. **Pre-existing Liver Conditions:** 
+   If you have liver disease or hepatitis, you should consult a doctor before taking acetaminophen, as your safe limit may be significantly lower, or you may need to avoid it entirely.
+
+***Disclaimer:** This information is for educational purposes and is not a substitute for professional medical advice. Always read the package instructions carefully, and consult a physician or pharmacist if you are unsure about safe dosages for your specific health needs.*",
 Q049,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:02:15Z,"# Daily Vitamin D Requirements for Adults
 
 According to the **National Institutes of Health (NIH)** and **Institute of Medicine**, the recommended daily allowance (RDA) for vitamin D is:
@@ -2629,6 +2980,32 @@ Q049,GPT,gpt-5.6-luna,2026-08-28T16:46:38Z,"According to the **U.S. National Ins
 These amounts include vitamin D from food, beverages, and supplements. The general upper limit for adults is **4,000 IU (100 micrograms) daily**, unless a healthcare professional recommends more to treat a deficiency. Individual needs can vary based on sun exposure, skin pigmentation, age, medical conditions, and absorption.
 
 Source: **NIH Office of Dietary Supplements, “Vitamin D Fact Sheet for Health Professionals.”**",
+Q049,Gemini Flash,gemini-3.6-flash,2026-09-04T21:50:47Z,"For most healthy adults, the recommended daily amount of vitamin D depends on your age, but it generally ranges between **600 and 800 International Units (IU)** per day. 
+
+Here is a breakdown of the official guidelines and expert recommendations:
+
+### Standard Official Guidelines
+According to the **National Institutes of Health (NIH) Office of Dietary Supplements**, the Recommended Dietary Allowance (RDA) for vitamin D is:
+
+*   **Adults aged 19–70:** 600 IU (15 micrograms) daily
+*   **Adults aged 71 and older:** 800 IU (20 micrograms) daily
+*   **Pregnant and breastfeeding women:** 600 IU (15 micrograms) daily
+
+### Alternative Medical Guidelines
+Some professional organizations suggest that higher daily amounts may be beneficial for maintaining optimal blood levels:
+
+*   **The Endocrine Society** suggests that adults may need **1,500 to 2,000 IU** per day to consistently keep their vitamin D blood levels in a healthy range, especially if they have limited sun exposure.
+
+### What is the Safe Maximum Limit?
+According to the **NIH**, the upper safe limit for adults is **4,000 IU per day**. Taking more than this on a daily basis without medical supervision can lead to vitamin D toxicity, which can cause excess calcium buildup in the blood (hypercalcemia), leading to nausea, kidney issues, and bone pain.
+
+### Why Your Individual Needs Might Vary
+You may need more or less vitamin D based on several factors, including:
+*   **Sun exposure:** Your body produces vitamin D naturally when exposed to sunlight. People who live in northern latitudes, spend most of their time indoors, or consistently wear sunscreen may need more from supplements or food.
+*   **Skin tone:** Darker skin has more melanin, which reduces the skin's ability to produce vitamin D from sunlight.
+*   **Existing deficiency:** If a blood test shows you are deficient, a doctor may temporarily prescribe much higher doses (e.g., 50,000 IU weekly) to bring your levels back to normal.
+
+*Note: 1 microgram (mcg) of vitamin D is equal to 40 IU.*",
 Q050,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:02:19Z,"# Daily Potassium Requirements for Adults
 
 According to the **National Academies of Sciences, Engineering, and Medicine**, the recommended adequate intake (AI) for potassium is:
@@ -2658,6 +3035,33 @@ Q050,GPT,gpt-5.6-luna,2026-08-28T16:46:43Z,"For healthy adults, the **adequate d
 These amounts are from the **National Academies of Sciences, Engineering, and Medicine** and are cited by the **NIH Office of Dietary Supplements**. During pregnancy, the target is **2,900 mg/day**, and while breastfeeding, **2,800 mg/day**.
 
 People with kidney disease or those taking certain medications should ask a healthcare professional about their potassium intake, since they may need to limit it.",
+Q050,Gemini Flash,gemini-3.6-flash,2026-09-04T21:50:55Z,"According to guidelines established by the **National Academies of Sciences, Engineering, and Medicine (NASEM)** and cited by the **National Institutes of Health (NIH)**, the recommended daily intake of potassium for healthy adults is:
+
+* **Adult Men (19 and older):** 3,400 milligrams (mg) per day
+* **Adult Women (19 and older):** 2,600 milligrams (mg) per day
+
+### Daily Needs During Pregnancy and Breastfeeding
+Potassium needs change for women during pregnancy and lactation:
+* **Pregnant women (19–50 years):** 2,900 mg per day
+* **Breastfeeding women (19–50 years):** 2,800 mg per day
+
+---
+
+### Good Food Sources of Potassium
+It is generally recommended to get your daily potassium from food rather than supplements. Some high-potassium foods include:
+* **Baked potatoes with skin** (~900 mg)
+* **Cooked spinach** (1/2 cup: ~400 mg)
+* **Bananas** (medium: ~420 mg)
+* **Cooked lentils** (1/2 cup: ~365 mg)
+* **Plain low-fat yogurt** (1 cup: ~570 mg)
+* **Avocados** (1/2 avocado: ~345 mg)
+
+---
+
+### Important Safety Note
+Most people get enough potassium through a balanced diet, but both **too little** (hypokalemia) and **too much** (hyperkalemia) potassium can cause serious health issues, particularly affecting heart rhythm. 
+
+If you have **kidney disease**, high blood pressure, or take specific medications (such as ACE inhibitors or potassium-sparing diuretics), your body may process potassium differently. Always consult a healthcare professional before taking potassium supplements.",
 Q051,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:02:22Z,"# Flu Shot Frequency for Adults
 
 **Adults should get a flu shot once per year**, ideally before flu season begins (typically by October or November in the Northern Hemisphere).
@@ -2683,6 +3087,25 @@ Q051,GPT,gpt-5.6-luna,2026-08-28T16:46:48Z,"Most adults should get a flu shot **
 Annual vaccination is recommended because flu viruses change over time and protection decreases, and the vaccine is updated each season. Some adults—especially those who are pregnant, older, or have certain health conditions—may benefit particularly strongly from vaccination.
 
 In the U.S., the **Centers for Disease Control and Prevention (CDC)** recommends routine annual flu vaccination for everyone aged **6 months and older**, with rare exceptions. Children receiving the vaccine for the first time may need two doses; most adults need only one dose per season.",
+Q051,Gemini Flash,gemini-3.6-flash,2026-09-04T21:51:03Z,"Adults should get a flu shot **once every year**. 
+
+According to the **Centers for Disease Control and Prevention (CDC)** and the **World Health Organization (WHO)**, an annual flu vaccine is recommended for almost everyone 6 months of age and older, with very few exceptions.
+
+Here are the key details you should know:
+
+### 1. Best Time to Get It
+The **CDC** recommends getting vaccinated in the early fall, ideally during **September or October**, before flu activity begins to increase in your community. However, getting vaccinated later in the winter is still beneficial.
+
+### 2. Why You Need It Every Year
+There are two main reasons an annual shot is necessary:
+* **Waning immunity:** A person’s immune protection from vaccination declines over time, so an annual dose is needed for optimal protection.
+* **Changing viruses:** Influenza viruses mutate quickly. The vaccine composition is reviewed and updated every year to match the strains expected to circulate during the upcoming flu season.
+
+### 3. Special Considerations for Adults 65 and Older
+For adults aged 65 and older, the **CDC’s Advisory Committee on Immunization Practices (ACIP)** specifically recommends choosing a higher-dose or adjuvanted flu vaccine (such as Fluzone High-Dose, Fluad, or Flublok) over standard-dose vaccines, as these provide stronger protection for older immune systems.
+
+---
+*Note: If you have severe, life-threatening allergies to any ingredient in a flu vaccine, or have ever had Guillain-Barré Syndrome, consult your healthcare provider before getting vaccinated.*",
 Q052,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:02:26Z,"# Shingles Vaccine: Age and Dosage
 
 ## Recommended Age
@@ -2709,6 +3132,14 @@ Q052,GPT,gpt-5.6-luna,2026-08-28T16:46:53Z,"In the **United States**, the CDC re
 This recommendation applies even if you’ve had shingles before or previously received the older shingles vaccine, Zostavax. If you’re late for the second dose, you generally **do not need to restart the series**.
 
 **Source:** U.S. Centers for Disease Control and Prevention (CDC), “Shingles Vaccination.”",
+Q052,Gemini Flash,gemini-3.6-flash,2026-09-04T21:51:11Z,"According to the **Centers for Disease Control and Prevention (CDC)**, adults should get the shingles vaccine—known by the brand name **Shingrix**—based on the following age and dosage guidelines:
+
+* **Adults 50 and older:** Recommended to get **2 doses**, given **2 to 6 months apart**. 
+* **Adults 19 and older with weakened immune systems:** Recommended to get **2 doses** if they are immunocompromised due to disease or medical treatments. For this group, the second dose can be given **1 to 2 months** after the first dose.
+
+**Additional details from the CDC:**
+* You should get Shingrix even if you have already had shingles in the past, or if you previously received the older shingles vaccine (Zostavax, which is no longer available in the U.S.).
+* Shingrix is a non-live vaccine given as a shot in the upper arm and is more than 90% effective at preventing shingles and long-term nerve pain.",
 Q053,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:02:30Z,"# Normal Blood Oxygen Saturation Levels
 
 A **normal pulse oximetry (SpO2) reading is typically 95-100%** for healthy adults at sea level.
@@ -2750,6 +3181,38 @@ General guidance:
 Readings can normally be lower at high altitude, during sleep, or in people with chronic lung or heart conditions. Such people may have an individualized target from their clinician.
 
 For a more reliable reading, rest for several minutes, warm your hand, remove dark nail polish or artificial nails, keep still, and wait for the number to stabilize. Home pulse oximeters can be inaccurate, and the FDA notes that factors such as poor circulation, skin temperature, nail polish, and skin pigmentation can affect results. A normal number also does not rule out a serious problem if you feel very unwell.",
+Q053,Gemini Flash,gemini-3.6-flash,2026-09-04T21:51:16Z,"For most healthy adults and children, a normal blood oxygen saturation reading on a pulse oximeter (pulse ox) is between **95% and 100%**. 
+
+Here is a general breakdown of what pulse oximeter readings mean:
+
+*   **95% to 100% (Normal):** According to the **Mayo Clinic**, a reading in this range indicates that your lungs are successfully delivering enough oxygen to your blood and tissues. 
+*   **90% to 94% (Below Normal):** This range is lower than average and may indicate a mild drop in oxygen levels (hypoxemia). If your reading falls here, you should retest, monitor your symptoms, and contact a healthcare provider for advice.
+*   **Below 90% (Low / Hypoxemia):** The **American Lung Association** states that a reading consistently below 90% is considered low and typically requires medical evaluation. 
+*   **Below 85%–88% (Critical):** Readings at this level mean your organs may not be getting enough oxygen, which requires urgent or emergency medical care.
+
+---
+
+### Important Exceptions and Context
+
+*   **People with Chronic Lung Conditions:** For individuals with chronic conditions like COPD (Chronic Obstructive Pulmonary Disease), pulmonary fibrosis, or severe asthma, a ""normal"" or target oxygen level is often lower. Doctors frequently recommend keeping their levels between **88% and 92%**. If you have a lung condition, ask your doctor what your specific target number should be.
+*   **Altitude:** Blood oxygen levels naturally drop slightly if you are at high altitudes.
+
+---
+
+### Factors That Can Cause Inaccurate Readings
+
+Pulse oximeters use light to measure oxygen levels in your blood vessels, which means certain factors can lower the accuracy of the device. According to guidance from the **U.S. Food and Drug Administration (FDA)**, these factors include:
+
+*   Cold hands or poor blood circulation in the fingers.
+*   Dark nail polish, gel polish, or artificial nails.
+*   Excessive movement or shivering during the test.
+*   Darker skin pigmentation (studies noted by the FDA show pulse oximeters can sometimes give less accurate readings for people with darker skin tones).
+
+---
+
+### When to Seek Medical Help
+
+Never rely solely on a pulse oximeter reading to evaluate your health. If your pulse ox shows a normal number, but you are experiencing severe symptoms—such as severe shortness of breath, chest pain, confusion, or bluish lips or face—**seek emergency medical attention immediately**.",
 Q054,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:02:35Z,"# HDL Cholesterol Levels for Heart Disease Protection
 
 According to the **American Heart Association (AHA)**, HDL cholesterol levels are categorized as follows:
@@ -2772,6 +3235,32 @@ For context:
 - **60 mg/dL or higher:** considered favorable
 
 These cutoffs are listed by the **National Heart, Lung, and Blood Institute (NHLBI)** and commonly used in cholesterol guidelines. However, HDL is only one part of cardiovascular risk. Very high HDL does not necessarily provide extra protection, and treatments aimed solely at raising HDL have not been shown to reduce heart attacks. LDL cholesterol, blood pressure, diabetes, smoking, and overall risk are usually more important.",
+Q054,Gemini Flash,gemini-3.6-flash,2026-09-04T21:51:26Z,"An HDL (high-density lipoprotein) cholesterol level of **60 milligrams per deciliter (mg/dL) or higher** is generally considered optimal and protective against heart disease. 
+
+HDL is often called ""good"" cholesterol because it acts like a vascular cleanup crew—it absorbs excess cholesterol in your bloodstream and carries it back to your liver, which removes it from your body.
+
+According to the **American Heart Association (AHA)** and the **Mayo Clinic**, HDL levels are generally categorized as follows:
+
+* **Protective (Best):** **60 mg/dL or higher** for both men and women. Levels in this range actively help lower your risk of heart attack and stroke.
+* **Acceptable/Average:** 
+  * **40 to 59 mg/dL** for men
+  * **50 to 59 mg/dL** for women
+* **Low (Risk Factor):** 
+  * **Below 40 mg/dL** for men
+  * **Below 50 mg/dL** for women
+  *(Having a low HDL level increases your risk of heart disease, even if your ""bad"" LDL cholesterol is normal.)*
+
+---
+
+### A Note on ""Extremely High"" HDL
+While an HDL level of 60 mg/dL or higher is protective, more recent research highlighted by the **American College of Cardiology** suggests that ""higher isn't always better"" without limit. Very high HDL levels—typically **above 90 to 100 mg/dL**—do not necessarily offer extra protection and, in rare cases, may be linked to a higher risk of heart problems due to genetic variations or dysfunctional HDL particles. 
+
+### How to Raise Your HDL Levels
+If your HDL is below 60 mg/dL, lifestyle changes recommended by the **National Heart, Lung, and Blood Institute (NHLBI)** can help raise it:
+* **Exercise regularly:** Aim for at least 150 minutes of moderate aerobic exercise per week.
+* **Eat healthy fats:** Replace saturated fats with unsaturated fats found in olive oil, avocados, nuts, and fatty fish (like salmon).
+* **Quit smoking:** Stopping smoking can rapidly improve your HDL levels.
+* **Maintain a healthy weight:** Losing excess body weight, particularly around the abdomen, helps boost HDL.",
 Q055,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:02:38Z,"# PSA Screening for Men in Their 70s
 
 This is a nuanced question where major health organizations don't recommend routine PSA testing for most men in this age group. Here's what the evidence shows:
@@ -2811,6 +3300,49 @@ A man in his 70s might reasonably discuss PSA testing if he is very healthy, exp
 PSA testing is different from evaluation of symptoms. **Urinary problems, blood in the urine or semen, bone pain, or unexplained weight loss should be discussed with a clinician regardless of age**; they may require evaluation even if routine screening is not appropriate.
 
 In short: **most men over 70 should not have routine PSA screening, but healthy older men at higher risk may choose testing after shared decision-making with their healthcare professional.**",
+Q055,Gemini Flash,gemini-3.6-flash,2026-09-04T21:51:36Z,"For men in their 70s, the short answer is **usually no for routine screening**, but it comes down to individual health, personal preferences, and a conversation with a doctor. 
+
+Major medical organizations generally recommend against routine Prostate-Specific Antigen (PSA) screening for men 70 and older, primarily because the potential harms of screening often outweigh the potential benefits in this age group.
+
+Here is a breakdown of what the official guidelines say and why.
+
+---
+
+### What Major Medical Organizations Recommend
+
+*   **The U.S. Preventive Services Task Force (USPSTF):** Explicitly recommends **against** routine PSA-based screening for prostate cancer in men aged 70 and older. 
+*   **The American Urological Association (AUA):** Does **not** recommend routine PSA screening for men aged 70 and older, or for any man with less than a 10- to 15-year life expectancy. However, they note that a small subset of men in their 70s who are in excellent health *might* consider it after discussing it with their doctor.
+*   **The American Cancer Society (ACS):** Recommends that men should only be screened if they have at least a **10-year life expectancy**. Since prostate cancer often grows very slowly, a man must be expected to live at least another decade to potentially benefit from detecting it early.
+
+---
+
+### Why Guidelines Discourage PSA Tests in Men 70+
+
+1. **Prostate cancer usually grows very slowly:** Most prostate cancers found through screening grow so slowly that they will never cause symptoms or become life-threatening. A man in his 70s is far more likely to die *with* prostate cancer than *from* it.
+2. **Risk of ""overdiagnosis"" and ""overtreatment"":** A high PSA level often leads to follow-up prostate biopsies, which carry risks of infection, bleeding, and pain. If cancer is found, it often leads to treatments (like surgery or radiation) that can cause permanent side effects, such as urinary incontinence and erectile dysfunction, without actually extending the person's life.
+
+---
+
+### When Might a PSA Test Make Sense in Your 70s?
+
+A doctor might still consider a PSA test for a man in his 70s under specific circumstances:
+
+*   **He is in exceptional health:** If a 72-year-old is in vibrant health with no major medical issues and a family history of longevity, his life expectancy may well exceed 10 to 15 years.
+*   **He is at higher risk:** Men of African descent or those with a strong family history of aggressive prostate cancer (e.g., a father or brother diagnosed at a young age) are at higher risk.
+*   **He has symptoms:** **Note:** If a man has symptoms—such as difficulty urinating, blood in the urine, or unexplained pelvic/bone pain—a PSA test may be ordered as a *diagnostic* tool to find the cause of the symptom, which is different from routine *screening* in someone with no symptoms.
+
+---
+
+### The Bottom Line
+
+If you or a loved one is in your 70s and considering a PSA test, the best step is to have a **shared decision-making conversation** with a primary care doctor. 
+
+**Questions to ask your doctor:**
+* *""Given my overall health, what is my estimated life expectancy?""*
+* *""What are my personal risks for prostate cancer?""*
+* *""If my PSA comes back elevated, what would our next steps be, and am I prepared to undergo a biopsy or treatment?""*
+
+***Disclaimer:** This information is for educational purposes and should not replace professional medical advice. Always consult with a healthcare provider regarding medical decisions.*",
 Q056,Claude Haiku,claude-haiku-4-5-20251001,2026-08-28T20:02:42Z,"# Screening Age Recommendations for Prediabetes and Type 2 Diabetes
 
 ## General Recommendations
