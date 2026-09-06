@@ -36,4 +36,5 @@ data/reveal_key.csv
 # --- Internal planning docs, not part of the public repo ---
 LLM_Reliability_Leaderboard_Blueprint.md
 Builder.md
+PROGRESS.md
 .claude/
