@@ -30,8 +30,6 @@ To keep myself honest while scoring, I hide which model gave which answer until 
 
 Every answer traces back to something a real source page actually says, not general knowledge I filled in myself. Run `python src/dataset_builder.py` to check the dataset passes validation (no duplicate IDs, no empty fields, valid category tags, working URLs).
 
-**Model responses: in progress.** GPT and Claude are both fully done (120/120 questions each, no failures). Gemini is running against a free API tier that caps out at 20 requests a day, so I'm running it in daily batches until it catches up to the other two.
-
 **Not started yet:** scoring the responses, checking my own scoring reliability, running the stats, building the dashboard.
 
 ## Repo layout
